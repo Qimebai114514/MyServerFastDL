@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/jiaran2/tex01"
+
+	$lightwarptexture "models/player/toppiofficial/public/lightwarp_4"
+
+	$nodecal 1
+}

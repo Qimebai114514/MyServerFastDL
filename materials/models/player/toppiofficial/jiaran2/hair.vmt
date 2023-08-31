@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/jiaran2/hair"
+
+	$lightwarptexture "models/player/toppiofficial/jiaran2/toon_hair"
+
+	$nocull 1
+
+	$nodecal 1
+}
